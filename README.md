@@ -1,1 +1,1 @@
-# mycv.git.io
+# mycv.github.io
